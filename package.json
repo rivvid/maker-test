@@ -1,0 +1,13 @@
+{
+	"name": "maker-test"
+	,"version": "1.0.0"
+	,"author": "Chris Hubert <chris@rivvid.com>"
+	,"description": "Dependency test"
+	,"repository": {
+		"type":"git"
+		,"url":"git@github.com:rivvid/maker-test.com.git"
+	}
+	,"dependencies": {
+		"underscore": "1.6.x"
+	}
+}
