@@ -5,7 +5,7 @@
 	,"description": "Dependency test"
 	,"repository": {
 		"type":"git"
-		,"url":"git@github.com:rivvid/maker-test.com.git"
+		,"url":"git@github.com:rivvid/maker-test.git"
 	}
 	,"dependencies": {
 		"underscore": "1.6.x"
