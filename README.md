@@ -3,7 +3,7 @@ maker-test
 
 Dependency test
 
-`git clone`
+`git clone git@github.com:rivvid/maker-test.git`
 
 `npm install`
 
